@@ -1,4 +1,5 @@
 # data_sport
 Competitions
-![result_competition_kaggle](https://user-images.githubusercontent.com/72302485/139847969-b609491c-e98b-4737-814d-678d02306aff.png)
+![Безымянныuuuuuй](https://user-images.githubusercontent.com/72302485/195220939-c2566c78-755a-402e-8d6c-804f4dbcc91f.png)
 https://www.kaggle.com/c/geekbrains-competitive-data-analysis
+
